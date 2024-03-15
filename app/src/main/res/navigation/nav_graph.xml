@@ -1,0 +1,18 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <fragment
+        android:id="@+id/fragment_a"
+        android:name="com.example.latihan4pam.FragmentA"
+        android:label="Fragment A" />
+
+    <fragment
+        android:id="@+id/fragment_b"
+        android:name="com.example.latihan4pam.FragmentB"
+        android:label="Fragment B" />
+
+    <action
+        android:id="@+id/action_fragmentA_to_fragmentB"
+        app:destination="@id/fragment_b" />
+
+</navigation>

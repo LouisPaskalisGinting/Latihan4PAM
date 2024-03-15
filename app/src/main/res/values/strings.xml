@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Latihan4PAM</string>
+    <string name="text_fragment_a">Ini adalah Fragment A</string>
+    <string name="text_fragment_b">Ini adalah Fragment B</string>
+    <string name="text_btn1">Go to Fragment B</string>
+    <string name="text_btn2">Boo!</string>
+</resources>
